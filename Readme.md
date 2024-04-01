@@ -1,4 +1,6 @@
-# AstroNvim Config
+# AstroNvim Template
+
+**NOTE:** This is for AstroNvim v4+
 
 A user configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
@@ -9,18 +11,14 @@ A user configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 ```shell
 mv ~/.config/nvim ~/.config/nvim.bak
 mv ~/.local/share/nvim ~/.local/share/nvim.bak
+mv ~/.local/state/nvim ~/.local/state/nvim.bak
+mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
-#### Clone AstroNvim
+#### Clone the repository
 
 ```shell
-git clone https://github.com/AstroNvim/AstroNvim ~/.config/nvim
-```
-
-#### Clone this configuration
-
-```
-git clone https://github.com/alex289/astronvim_config.git ~/.config/nvim/lua/user
+git clone https://github.com/alex289/astronvim_config ~/.config/nvim
 ```
 
 #### Start Neovim
