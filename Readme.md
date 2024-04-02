@@ -26,3 +26,11 @@ git clone https://github.com/alex289/astronvim_config ~/.config/nvim
 ```shell
 nvim
 ```
+
+#### Activate copilot
+
+Run this in Neovim
+
+```bash
+:Copilot auth
+```
