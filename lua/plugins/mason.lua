@@ -7,7 +7,7 @@ return {
       opts.ensure_installed = require("astrocore").list_insert_unique(opts.ensure_installed, {
         "prismals",
         "astro",
-        "tsserver",
+        "vtsls",
         "eslint",
         "jsonls",
         "tailwindcss",
@@ -23,7 +23,6 @@ return {
     opts = function(_, opts)
       opts.ensure_installed = require("astrocore").list_insert_unique(opts.ensure_installed, {
         "prettier",
-        "biome",
         "csharpier",
       })
     end,
