@@ -1,6 +1,6 @@
 # AstroNvim Template
 
-**NOTE:** This is for AstroNvim v4+
+**NOTE:** This is for AstroNvim v5+
 
 A user configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
