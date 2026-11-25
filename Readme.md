@@ -1,6 +1,6 @@
 # AstroNvim Template
 
-**NOTE:** This is for AstroNvim v6
+This configuration tracks AstroNvim v7 and requires Neovim 0.12 or newer.
 
 A user configuration for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
